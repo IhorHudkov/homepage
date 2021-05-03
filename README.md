@@ -1,4 +1,4 @@
-# homepage
+# Homepage
 
 My very own personal website. Basically this is just a résumé.
 
@@ -8,4 +8,4 @@ My very own personal website. Basically this is just a résumé.
 
 ### License
 
-React is [MIT licensed](./LICENSE).
+Homepage is [MIT licensed](./LICENSE).
