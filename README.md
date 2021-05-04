@@ -19,5 +19,3 @@ Just clone the repository to your computer!
 ### License
 
 Homepage is [MIT licensed](./LICENSE).
-
-Hocus-pocus!
