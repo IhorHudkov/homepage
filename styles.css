@@ -268,3 +268,30 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+/* Hobbies block */
+
+.hobbies {
+
+}
+
+.hobbies__header {
+    color: var(--secondary-text-color);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.hobbies__images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hobbies__image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid;
+    border-color: var(--text-decoration-color);
+}
